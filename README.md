@@ -4,11 +4,11 @@
   
 
 ### 🏫PNU-Study
-#### 👨‍🎓 Now Studing
   - [OS](https://github.com/abc980823/PNU-OperatingSystem)
   - [Algorithm(prof.cho)](https://github.com/abc980823/PNU-algorithm)
   - [Internet-Web-Basic](https://github.com/abc980823/PNU_Internet-Web_basic)
   - [DataScience](https://github.com/abc980823/PNU-DataScience)
+  
   
 ### 🏠 Self-Study
   - [Baekjoon](https://github.com/abc980823/Baekjoon-Study)
