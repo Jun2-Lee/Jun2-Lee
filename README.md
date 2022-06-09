@@ -16,6 +16,7 @@
   
 ### 🏠 Self-Study
   - [Baekjoon](https://github.com/abc980823/Baekjoon-Study)
+  - [Algorithm(Self)](https://github.com/abc980823/algorithm)
   - [Spring](https://github.com/abc980823/Spring_boot)
   - [JPA](https://github.com/abc980823/JPA_Study)
   
