@@ -8,17 +8,17 @@
   
 
 ### 🏫PNU-Study
-  - [OS](https://github.com/abc980823/PNU-OperatingSystem)
-  - [Algorithm(prof.cho)](https://github.com/abc980823/PNU-algorithm)
-  - [Internet-Web-Basic](https://github.com/abc980823/PNU_Internet-Web_basic)
-  - [DataScience](https://github.com/abc980823/PNU-DataScience)
+  - [OS](https://github.com/Jun2-Lee/PNU-OperatingSystem)
+  - [Algorithm(prof.cho)](https://github.com/Jun2-Lee/PNU-algorithm)
+  - [Internet-Web-Basic](https://github.com/Jun2-Lee/PNU_Internet-Web_basic)
+  - [DataScience](https://github.com/Jun2-Lee/PNU-DataScience)
   
   
 ### 🏠 Self-Study
-  - [Baekjoon](https://github.com/abc980823/Baekjoon-Study)
-  - [Algorithm(Self)](https://github.com/abc980823/algorithm)
-  - [Spring](https://github.com/abc980823/Spring_boot)
-  - [JPA](https://github.com/abc980823/JPA_Study)
+  - [Baekjoon](https://github.com/Jun2-Lee/Baekjoon-Study)
+  - [Algorithm(Self)](https://github.com/Jun2-Lee/algorithm)
+  - [Spring](https://github.com/Jun2-Lee/Spring_boot)
+  - [JPA](https://github.com/Jun2-Lee/JPA_Study)
   
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=abc980823&show_icons=true&theme=gruvbox&hide=["issues"]">
