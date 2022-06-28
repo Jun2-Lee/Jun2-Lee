@@ -21,4 +21,4 @@
   - [JPA](https://github.com/Jun2-Lee/JPA_Study)
   
 <p align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=abc980823&show_icons=true&theme=gruvbox&hide=["issues"]">
+<img src="https://github-readme-stats.vercel.app/api?username=Jun2-Lee&show_icons=true&theme=gruvbox&hide=["issues"]">
