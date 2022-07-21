@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=BackEnd%20Developer!&fontAlign=60&fontAlignY=40&color=skyblue)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=BackEnd%20Developer!&fontAlign=60&fontAlignY=40&color=auto)
 
 ### <p align="center">:hammer_and_wrench: Language</p>
 <p align="center">
@@ -11,5 +11,7 @@
  
 <div align ="center">
 <img align = "right" src="https://github-readme-stats.vercel.app/api?username=Jun2-Lee&show_icons=true&theme=gruvbox&hide=["issues"]">
+
+
  <div align ="center">
    <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abc980823">
