@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&text=백엔드%20개발자&fontSize=90")
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=BackEnd%20Developer!&fontAlign=60&fontAlignY=40&color=skyblue)
 
 ### <p align="center">:hammer_and_wrench: Language</p>
 <p align="center">
@@ -8,5 +8,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">   
  
-<p align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=Jun2-Lee&show_icons=true&theme=gruvbox&hide=["issues"]">
+ 
+<div align ="center">
+<img align = "right" src="https://github-readme-stats.vercel.app/api?username=Jun2-Lee&show_icons=true&theme=gruvbox&hide=["issues"]">
+ <div align ="center">
+   <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abc980823">
