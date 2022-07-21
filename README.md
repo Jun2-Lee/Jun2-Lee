@@ -11,7 +11,6 @@
  
 <div align ="center">
 <img align = "right" src="https://github-readme-stats.vercel.app/api?username=Jun2-Lee&show_icons=true&theme=gruvbox&hide=["issues"]">
-
-
- <div align ="center">
-   <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abc980823">
+<img align = "left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abc980823">
+</div>
+  
