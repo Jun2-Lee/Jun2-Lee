@@ -14,11 +14,12 @@
 🌟My Record🌟
  ---
 <a href = "https://velog.io/@abc980823">
-<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@abc980823">
+<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@abc980823"></a>
 <a href = "https://jun2-lee.github.io/">
-<img src="https://img.shields.io/badge/Pr_page-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://jun2-lee.github.io/"> 
+<img src="https://img.shields.io/badge/Pr_page-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://jun2-lee.github.io/"></a> 
 <a href = "https://www.instagram.com/jun.__.2_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jun.__.2_/"> 
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jun.__.2_/"></a> 
+ 
  
  <br><br>
  <div align ="center">
